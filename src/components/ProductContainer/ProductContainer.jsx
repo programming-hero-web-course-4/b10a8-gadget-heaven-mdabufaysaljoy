@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProductContainer.css";
+import "./productContainer.css";
 import { NavLink, Outlet } from "react-router-dom";
 import Product from "./Product";
 import Products from "./Products";
