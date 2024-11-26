@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "MOB12345",
+    "product_title": "iPhone 13",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
+    "category": "Mobile",
+    "price": 799.99,
+    "description": "The iPhone 13 comes with a 6.1-inch display and the new A15 Bionic chip.",
+    "Specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "12MP dual-camera system",
+      "5G enabled",
+      "Ceramic Shield front"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "LAP23456",
+    "product_title": "MacBook Pro 14-inch",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-49683.jpg",
+    "category": "Laptop",
+    "price": 1999.99,
+    "description": "The powerful 14-inch MacBook Pro with the new M1 Pro chip, perfect for professionals.",
+    "Specification": [
+      "14-inch Liquid Retina XDR display",
+      "Apple M1 Pro chip",
+      "Up to 64GB unified memory",
+      "Up to 8TB SSD",
+      "Up to 17 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "ACC34567",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-49683.jpg",
+    "category": "Accessories",
+    "price": 249.99,
+    "description": "AirPods Pro feature Active Noise Cancellation and a customizable fit.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "Transparency mode",
+      "Customizable fit",
+      "Sweat and water resistant",
+      "MagSafe Charging Case"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "SWT45678",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-Series-8-GPS+Cellular-Midnight-4171.jpg",
+    "category": "Smartwatch",
+    "price": 399.99,
+    "description": "Apple Watch Series 8 with advanced health and fitness tracking capabilities.",
+    "Specification": [
+      "Always-On Retina display",
+      "Blood oxygen sensor",
+      "ECG app",
+      "Up to 18 hours of battery life",
+      "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "ACC56789",
+    "product_title": "MagSafe Charger",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/1524-9681.jpg",
+    "category": "Accessories",
+    "price": 39.99,
+    "description": "MagSafe Charger makes wireless charging a snap with perfectly aligned magnets.",
+    "Specification": [
+      "Compatible with iPhone 12 and later",
+      "Magnetic alignment",
+      "Up to 15W fast charging",
+      "USB-C connection",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "MAC67890",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "MacBook Air with the new M2 chip for incredible performance in a compact design.",
+    "Specification": [
+      "13.6-inch Liquid Retina display",
+      "Apple M2 chip",
+      "Up to 24GB unified memory",
+      "Up to 2TB SSD",
+      "Silent, fanless design"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "MOB78901",
+    "product_title": "Samsung Galaxy S22 Ultra",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S22-5G-Pink-Gold-3714.jpg",
+    "category": "Mobile",
+    "price": 1199.99,
+    "description": "The Galaxy S22 Ultra combines superior performance with an amazing camera system.",
+    "Specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "108MP quad-camera system",
+      "S Pen included",
+      "5000mAh battery",
+      "5G enabled"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "SWT89012",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://www.custommacbd.com/cdn/shop/products/GalaxyWatch5-blue-custom-ma-bd.jpg?v=1661494309",
+    "category": "Smartwatch",
+    "price": 279.99,
+    "description": "The Galaxy Watch 5 helps you track your fitness and health metrics effortlessly.",
+    "Specification": [
+      "1.4-inch Super AMOLED display",
+      "Blood pressure and ECG monitoring",
+      "Water resistant (5 ATM)",
+      "GPS built-in",
+      "Up to 40 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "ACC90123",
+    "product_title": "Logitech MX Master 3S",
+    "product_image": "https://vibegaming.com.bd/wp-content/uploads/2022/10/web-1.png",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Ergonomic wireless mouse with advanced features for precision work.",
+    "Specification": [
+      "Ultrafast scrolling",
+      "4000 DPI sensor",
+      "Multi-device support",
+      "USB-C rechargeable",
+      "Ergonomic design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "MAC01234",
+    "product_title": "MacBook Pro 16-inch",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3713-12439.jpg",
+    "category": "Laptop",
+    "price": 2499.99,
+    "description": "The 16-inch MacBook Pro offers unparalleled power for professionals.",
+    "Specification": [
+      "16-inch Liquid Retina XDR display",
+      "Apple M1 Max chip",
+      "Up to 64GB unified memory",
+      "Up to 8TB SSD",
+      "Up to 21 hours of battery life"
+    ],
+    "availability": false,
+    "rating": 4.9
+  }
+]
